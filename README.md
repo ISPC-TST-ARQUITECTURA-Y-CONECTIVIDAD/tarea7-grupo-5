@@ -24,15 +24,15 @@ en *.ppt
 3) Organizar el repositorio para que sean legibles las carpetas que contengan,
 el orden de las mismas a seguir es el siguiente:
   
-  a) Proyecto1 (Simulación) 
+    a) Proyecto1 (Simulación) 
 
-  b) Hardware (dispositivo usados en caso de ser necesario)
+    b) Hardware (dispositivo usados en caso de ser necesario)
 
-  c) Software (código)
+    c) Software (código)
 
-  d) Presentación (Video y *.ppt)
+    d) Presentación (Video y *.ppt)
 
-  e) Bibliografía (Referencias)
+    e) Bibliografía (Referencias)
   
 4) Proyecto 2: Implementar un proyecto en Proteus, mediante el cual puedan
 simular una conexión con Arduino. La consigna es comandar por voz el
@@ -45,11 +45,16 @@ en *.ppt
 
 6) Organizar el repositorio para que sean legibles las carpetas que contengan,
 el orden de las mismas a seguir es el siguiente:
-  a) Proyecto2 (Simulación)
-  b) Hardware (dispositivo usados en caso de ser necesario)
-  c) Software (código)
-  d) Presentación (Video y *.ppt)
-  e) (Bibliografía (Referencias)
+  
+    a) Proyecto2 (Simulación)
+
+    b) Hardware (dispositivo usados en caso de ser necesario)
+
+    c) Software (código)
+
+    d) Presentación (Video y *.ppt)
+
+    e) (Bibliografía (Referencias)
 
 ## Estructura del repositorio
 El repositorio se estructura de la siguiente manera:
